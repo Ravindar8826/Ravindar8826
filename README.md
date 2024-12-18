@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ravindar8826
+- 👋 Hi, I’m Ravindar8826
 - 👀 I’m interested in ... Empirical Research
 - 🌱 I’m currently learning ... Python and Matlab
 - 💞️ I’m looking to collaborate on ... Project related to R, Stata, Python and MATLAB
