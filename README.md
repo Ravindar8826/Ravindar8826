@@ -1,4 +1,4 @@
-![linkedin](https://github.com/user-attachments/assets/3551941a-6c7e-424e-b8b5-4426d7017f52)- 👋 Hi, I’m Ravindar
+ 👋 Hi, I’m Ravindar
 - 👀 I’m interested in ... Empirical Research
 - 🌱 I’m currently learning ... Python and Matlab
 - 💞️ I’m looking to collaborate on ... Project related to R, Stata, Python and MATLAB
